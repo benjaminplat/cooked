@@ -1,0 +1,1105 @@
+{
+  "aardappel": {
+    "label": "Aardappel",
+    "color": "var(--c-aardappel)",
+    "subcats": [
+      {
+        "key": "oven",
+        "label": "Oven / airfryer",
+        "recipes": [
+          {
+            "name": "Aardappelschijfjes-ovenschotel met sperziebonen & gehakt",
+            "tags": [],
+            "ingredients": [
+              "Aardappelschijfjes (vers of uit pak)",
+              "Half-om-half gehakt",
+              "Sperziebonen",
+              "Ui",
+              "Knoflook",
+              "Kruidenroom of crème fraîche",
+              "Geraspte kaas",
+              "Nootmuskaat, peper, zout"
+            ]
+          },
+          {
+            "name": "Zoete aardappel gehaktburrito met guacamole",
+            "tags": [],
+            "ingredients": [
+              "Zoete aardappel",
+              "Gehakt",
+              "Burrito- of tacokruiden",
+              "Tortilla wraps",
+              "Avocado (guacamole)",
+              "Limoen",
+              "Ui",
+              "Knoflook",
+              "Tomaat",
+              "Koriander",
+              "Zure room"
+            ]
+          },
+          {
+            "name": "Crispy chili-olie zoete aardappelbowl",
+            "tags": [],
+            "ingredients": [
+              "Zoete aardappel (uit de oven)",
+              "Gehakt",
+              "Chili-olie / chili crisp",
+              "Avocado",
+              "Gebakken uitjes",
+              "Tomaat, rode ui, koriander, limoen (pico de gallo)"
+            ]
+          },
+          {
+            "name": "Aardappels uit de oven, biefstuk & rode kool met champignons",
+            "tags": [],
+            "ingredients": [
+              "Aardappelen",
+              "Biefstuk",
+              "Rode kool",
+              "Champignons",
+              "Ui",
+              "Boter",
+              "Appelstroop of azijn (rode kool)",
+              "Peper, zout"
+            ]
+          },
+          {
+            "name": "Hamburger met broccoli & aardappeltjes",
+            "tags": [],
+            "ingredients": [
+              "Hamburgers (rundvlees)",
+              "Broccoli",
+              "Krieltjes / aardappeltjes",
+              "Boter, knoflook, kruiden",
+              "Ketchup / mosterd",
+              "Broodje (optioneel)"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "gekookt",
+        "label": "Gekookt",
+        "recipes": [
+          {
+            "name": "Kerrie, aardappel, wortel, worst",
+            "tags": [
+              "HelloFresh"
+            ],
+            "ingredients": [
+              "Aardappelen",
+              "Wortel",
+              "Rookworst",
+              "Kerriepoeder",
+              "Ui",
+              "Bouillon",
+              "Room of crème fraîche",
+              "Peterselie"
+            ],
+            "note": "Benadering — exact HelloFresh-recept van die week kon ik niet terugvinden."
+          }
+        ]
+      },
+      {
+        "key": "stamppot",
+        "label": "Stamppot",
+        "recipes": [
+          {
+            "name": "Andijviestamppot met shoarma",
+            "tags": [],
+            "ingredients": [
+              "Aardappelen",
+              "Andijvie",
+              "Ui",
+              "Spekjes (optioneel)",
+              "Shoarmavlees",
+              "Shoarmakruiden",
+              "Melk & roomboter (voor de stamp)",
+              "Knoflooksaus / sambal"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "frituur",
+        "label": "Frituur",
+        "recipes": [
+          {
+            "name": "Aardappelkroket met zalm/pangasius/kabeljauw & wortels",
+            "tags": [],
+            "ingredients": [
+              "Aardappelkroketten (diepvries)",
+              "Zalm, pangasius of kabeljauwfilet",
+              "Wortels",
+              "Boter",
+              "Citroen",
+              "Peterselie",
+              "Peper, zout"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rijst": {
+    "label": "Rijst",
+    "color": "var(--c-rijst)",
+    "subcats": [
+      {
+        "key": "curry",
+        "label": "Curry stijl",
+        "recipes": [
+          {
+            "name": "Rode curry met kip & sperziebonen",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Rode currypasta",
+              "Kokosmelk",
+              "Sperziebonen",
+              "Paprika",
+              "Rode peper",
+              "Ui",
+              "Knoflook",
+              "Rijst"
+            ]
+          },
+          {
+            "name": "Sajoer boontjes met kip & rijst",
+            "tags": [],
+            "ingredients": [
+              "Sperziebonen",
+              "Kip",
+              "Santen / kokosmelk",
+              "Sambal, laos",
+              "Ui",
+              "Knoflook",
+              "Rijst"
+            ]
+          },
+          {
+            "name": "Katsu curry met rijst",
+            "tags": [
+              "Picnic"
+            ],
+            "ingredients": [
+              "Kipfilet (panko, gefrituurd)",
+              "Currysaus: ui, wortel, currypoeder, bouillon",
+              "Rijst"
+            ],
+            "note": "Benadering op basis van vergelijkbare katsu curry-recepten."
+          },
+          {
+            "name": "Bobotie met rijst",
+            "tags": [],
+            "ingredients": [
+              "Gehakt",
+              "Ui",
+              "Kerriepoeder",
+              "Rozijnen",
+              "Brood & melk",
+              "Ei",
+              "Kurkuma",
+              "Rijst"
+            ]
+          },
+          {
+            "name": "Tikka masala met rijst",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Tikka masala kruiden of pasta",
+              "Tomaat",
+              "Room",
+              "Ui, knoflook, gember",
+              "Rijst"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mexicaans",
+        "label": "Mexicaanse stijl",
+        "recipes": [
+          {
+            "name": "Chili con carne met rijst",
+            "tags": [],
+            "ingredients": [
+              "Gehakt",
+              "Kidneybonen",
+              "Tomaat(blokjes)",
+              "Ui",
+              "Knoflook",
+              "Paprika",
+              "Komijn, chilipoeder",
+              "Rijst"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "friedrice",
+        "label": "Fried rice",
+        "recipes": [
+          {
+            "name": "Fried rice",
+            "tags": [],
+            "ingredients": [
+              "Rijst (bij voorkeur van de dag ervoor)",
+              "Ei",
+              "Wokgroenten",
+              "Sojasaus",
+              "Sesamolie",
+              "Lente-ui",
+              "Knoflook, gember",
+              "Kip of spek (optioneel)"
+            ]
+          },
+          {
+            "name": "Nasi jumbo (verspakket, ketjap asin)",
+            "tags": [],
+            "ingredients": [
+              "Nasi verspakket",
+              "Ketjap asin",
+              "Ei",
+              "Kip of spek",
+              "Groenten uit het pakket"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "risotto",
+        "label": "Risotto",
+        "recipes": [
+          {
+            "name": "Carbonara-stijl risotto met groene asperges",
+            "tags": [
+              "Picnic"
+            ],
+            "ingredients": [
+              "Risottorijst",
+              "Groene asperges",
+              "Spek of pancetta",
+              "Parmezaan",
+              "Ei",
+              "Ui, knoflook",
+              "Bouillon"
+            ],
+            "note": "Benadering — vul aan zodra je het exacte Picnic-recept erbij pakt."
+          },
+          {
+            "name": "Risotto met tomaat",
+            "tags": [],
+            "ingredients": [
+              "Risottorijst",
+              "Tomaat / tomato frito",
+              "Ui",
+              "Knoflook",
+              "Parmezaan",
+              "Bouillon",
+              "Basilicum"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pokebowl",
+        "label": "Pokebowl",
+        "recipes": [
+          {
+            "name": "Pokebowl",
+            "tags": [],
+            "ingredients": [
+              "Sushirijst",
+              "Zalm of tonijn (rauw of gerookt)",
+              "Edamame",
+              "Komkommer",
+              "Avocado",
+              "Sojasaus",
+              "Sesamzaad",
+              "Rijstazijn"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "overig",
+        "label": "Overig",
+        "recipes": [
+          {
+            "name": "Kip jambalaya",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Chorizo of worst",
+              "Paprika",
+              "Ui",
+              "Knoflook",
+              "Rijst",
+              "Tomaat",
+              "Cajunkruiden",
+              "Bouillon"
+            ]
+          },
+          {
+            "name": "Paella",
+            "tags": [],
+            "ingredients": [
+              "Paella- of arborio rijst",
+              "Kip",
+              "Garnalen",
+              "Mosselen (optioneel)",
+              "Paprika",
+              "Ui",
+              "Knoflook",
+              "Saffraan",
+              "Tomaat",
+              "Bouillon",
+              "Doperwten"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pasta": {
+    "label": "Pasta",
+    "color": "var(--c-pasta)",
+    "subcats": [
+      {
+        "key": "pasta_generiek",
+        "label": "Pasta (penne, spaghetti, rigatoni e.d.)",
+        "recipes": [
+          {
+            "name": "Pasta met wokgarnalen",
+            "tags": [],
+            "ingredients": [
+              "Wokgarnalen",
+              "Verse cayennepeper",
+              "Paprika",
+              "Ui",
+              "Knoflook",
+              "Penne",
+              "Tomato frito",
+              "Kookroom",
+              "Sambal"
+            ]
+          },
+          {
+            "name": "Spaghetti bolognese",
+            "tags": [],
+            "ingredients": [
+              "Half-om-half gehakt",
+              "Honing",
+              "Tomato frito",
+              "Pittige kaas",
+              "Paprika",
+              "Wortel",
+              "Ui (1,5 stuk)",
+              "Knoflook",
+              "Spaghetti"
+            ]
+          },
+          {
+            "name": "Pasta met zalm",
+            "tags": [],
+            "ingredients": [
+              "Tagliatelle (of vergelijkbaar)",
+              "Zalm",
+              "Spinazie",
+              "Cherrytomaat",
+              "Boursin",
+              "Ui",
+              "Knoflook",
+              "Pijnboompitten",
+              "Rode peper",
+              "Parmezaan"
+            ]
+          },
+          {
+            "name": "Pasta carbonara",
+            "tags": [],
+            "ingredients": [
+              "Spek",
+              "Peterselie",
+              "Eieren",
+              "Ui",
+              "Knoflook",
+              "Spaghetti",
+              "Slagroom",
+              "Parmezaan",
+              "Rode peper",
+              "Courgette"
+            ]
+          },
+          {
+            "name": "Pasta pesto met kip & spek",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Spekjes",
+              "Paprika",
+              "Ui",
+              "Knoflook",
+              "Penne of rigatoni",
+              "Pesto",
+              "Kookroom of crème fraîche"
+            ]
+          },
+          {
+            "name": "Pasta met chorizo",
+            "tags": [],
+            "ingredients": [
+              "Penne",
+              "Chorizo (2x)",
+              "Verse spinazie (400 g)",
+              "Paprika's (3x)",
+              "Ricotta",
+              "Tomatenblokjes / frito",
+              "Rode ui",
+              "Knoflook",
+              "Parmezaan"
+            ]
+          },
+          {
+            "name": "Citroenpasta met kip & spinazie (tagliatelle)",
+            "tags": [],
+            "ingredients": [
+              "Tagliatelle",
+              "Kip",
+              "Spinazie",
+              "Citroen",
+              "Kookroom",
+              "Knoflook",
+              "Cherrytomaatjes",
+              "Ui",
+              "Parmezaan",
+              "Rode peper"
+            ]
+          },
+          {
+            "name": "Verse pasta bolognese",
+            "tags": [],
+            "ingredients": [
+              "Spaghetti of tagliatelle (verse pasta)",
+              "Gehakt",
+              "Ui",
+              "Knoflook",
+              "Wortel",
+              "Paprika",
+              "Tomato frito"
+            ]
+          },
+          {
+            "name": "Champignon-roompasta met kip",
+            "tags": [],
+            "ingredients": [
+              "Tagliatelle of fettuccine",
+              "Champignons",
+              "Kip",
+              "Room",
+              "Parmezaan",
+              "Tijm",
+              "Limoen",
+              "Ui",
+              "Knoflook"
+            ]
+          },
+          {
+            "name": "Orzo kofte-stijl met rundergehakt",
+            "tags": [],
+            "ingredients": [
+              "Orzo",
+              "Rundergehakt",
+              "Kofte-kruiden",
+              "Mascarpone",
+              "Paprika",
+              "Prei",
+              "Midden-oosterse kruiden",
+              "Bouillon",
+              "Ui",
+              "Knoflook"
+            ]
+          },
+          {
+            "name": "Burrata pasta",
+            "tags": [],
+            "ingredients": [
+              "Tomato frito",
+              "Burrata",
+              "Chorizo",
+              "Rigatoni",
+              "Basilicum",
+              "Ui",
+              "Knoflook",
+              "Rucola"
+            ]
+          },
+          {
+            "name": "Nduja pasta",
+            "tags": [],
+            "ingredients": [
+              "Nduja",
+              "Rigatoni of penne",
+              "Tomaat (passata of frito)",
+              "Ui",
+              "Knoflook",
+              "Mascarpone of roomkaas (optioneel, voor romigheid)",
+              "Parmezaan",
+              "Basilicum"
+            ]
+          },
+          {
+            "name": "Gambas pasta met tomaat",
+            "tags": [
+              "HelloFresh"
+            ],
+            "ingredients": [
+              "Gambas",
+              "Pasta",
+              "Tomaat / tomato frito",
+              "Ui",
+              "Knoflook",
+              "Peterselie",
+              "Parmezaan"
+            ],
+            "note": "Benadering — exact HelloFresh-recept nog checken."
+          },
+          {
+            "name": "Penne arrabbiata",
+            "tags": [],
+            "ingredients": [
+              "Penne",
+              "Tomato frito",
+              "Rode peper / chili",
+              "Ui",
+              "Knoflook",
+              "Olijfolie",
+              "Parmezaan",
+              "Peterselie"
+            ]
+          },
+          {
+            "name": "Pasta toscaans",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Tagliatelle of penne",
+              "Zongedroogde tomaat",
+              "Room",
+              "Spinazie",
+              "Parmezaan",
+              "Ui",
+              "Knoflook",
+              "Paprikapoeder"
+            ],
+            "note": "Populaire romige 'Tuscan chicken pasta'-stijl — pas aan als de tiktok-versie die je zag afwijkt."
+          },
+          {
+            "name": "Citroenpasta met broccoli & kip",
+            "tags": [],
+            "ingredients": [
+              "Pasta",
+              "Broccoli",
+              "Kip",
+              "Citroen",
+              "Room",
+              "Peper, paprika",
+              "Ui",
+              "Knoflook"
+            ]
+          },
+          {
+            "name": "Pasta al forno",
+            "tags": [],
+            "ingredients": [
+              "Rigatoni of penne",
+              "Tomatensaus",
+              "Gehakt of ricotta",
+              "Mozzarella",
+              "Parmezaan",
+              "Basilicum",
+              "Knoflook",
+              "Olijfolie"
+            ],
+            "note": "Standaard 'al forno'-opzet — pas aan als de tiktok-versie die je zag een andere vulling had."
+          },
+          {
+            "name": "Pasta met varkenshaas",
+            "tags": [],
+            "ingredients": [
+              "Varkenshaas",
+              "Tagliatelle of pappardelle",
+              "Room",
+              "Champignons",
+              "Ui",
+              "Knoflook",
+              "Mosterd",
+              "Parmezaan"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lasagne",
+        "label": "Lasagne",
+        "recipes": [
+          {
+            "name": "Lasagne",
+            "tags": [],
+            "ingredients": [
+              "Gehakt (500 g)",
+              "Honig lasagnepakket (met bechamel)",
+              "Italiaanse groentemix (400–600 g)",
+              "Honig lasagnebladen",
+              "Tomato frito",
+              "Halfvolle melk"
+            ]
+          },
+          {
+            "name": "Lasagnette",
+            "tags": [],
+            "ingredients": [
+              "Verse lasagnebladen",
+              "Ui",
+              "Knoflook",
+              "Courgette",
+              "Wortel",
+              "Gehakt",
+              "Ricotta",
+              "Basilicum",
+              "Tomato frito"
+            ],
+            "link": "https://www.leukerecepten.nl/recepten/lasagnette/"
+          }
+        ]
+      },
+      {
+        "key": "ravioli",
+        "label": "Ravioli / gevulde pasta",
+        "recipes": [
+          {
+            "name": "Kussentjes (gevulde pasta)",
+            "tags": [],
+            "todo": true,
+            "ingredients": [
+              "Gevulde pasta 'kussentjes' (ricotta-spinazievulling, kant-en-klaar)",
+              "Roomboter",
+              "Salieblaadjes (of tomatensaus als alternatief)",
+              "Parmezaan",
+              "Peper"
+            ],
+            "note": "🚧 nog checken — dit is een gok op basis van de bekende supermarkt-kussentjes met botersalie-saus."
+          }
+        ]
+      },
+      {
+        "key": "gnocchi",
+        "label": "Gnocchi",
+        "recipes": [
+          {
+            "name": "Gnocchi met pesto, kip & snijbonen",
+            "tags": [],
+            "ingredients": [
+              "Gnocchi",
+              "Pesto",
+              "Snijbonen",
+              "Kip",
+              "Tomaatjes",
+              "Ui",
+              "Knoflook",
+              "Parmezaan",
+              "Pijnboompitten"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "solo": {
+    "label": "Snel",
+    "color": "var(--c-solo)",
+    "recipes": [
+      {
+        "name": "Spinaziepasta met boursin & spek",
+        "tags": [],
+        "ingredients": [
+          "Pasta",
+          "Spinazie",
+          "Boursin",
+          "Spekjes",
+          "Ui",
+          "Knoflook"
+        ]
+      },
+      {
+        "name": "Udon noodles met kip, wokgroenten & pittige saus",
+        "tags": [],
+        "ingredients": [
+          "Udon noodles",
+          "Kip",
+          "Wokgroenten",
+          "Sojasaus",
+          "Sambal of chiliolie",
+          "Knoflook, gember"
+        ]
+      },
+      {
+        "name": "Maggi-noodles, 1 pan",
+        "tags": [],
+        "ingredients": [
+          "Maggi noodles",
+          "Ei",
+          "Groenten",
+          "Sojasaus"
+        ]
+      },
+      {
+        "name": "Tapas voor 1",
+        "tags": [],
+        "todo": true,
+        "ingredients": [
+          "Stokbrood",
+          "Chorizo",
+          "Olijven",
+          "Manchego of andere kaas",
+          "Aioli of tapenade"
+        ],
+        "note": "🚧 dit is meer een stijl dan één recept — wil je specifieke tapas-onderdelen vastleggen?"
+      },
+      {
+        "name": "Vissticks met puree/friet",
+        "tags": [],
+        "ingredients": [
+          "Vissticks (diepvries)",
+          "Aardappelpuree of frietjes",
+          "Groente",
+          "Remouladesaus"
+        ]
+      },
+      {
+        "name": "Ovenschotel met spinazie",
+        "tags": [],
+        "todo": true,
+        "ingredients": [
+          "Diepvries spinazie",
+          "Kaas",
+          "Ei of room",
+          "Aardappelpuree"
+        ],
+        "note": "🚧 nog aanvullen — stond alleen 'diepvries spinazie' op je lijst, welk gerecht bedoelde je precies?"
+      }
+    ]
+  },
+  "wraps": {
+    "label": "Exotisch",
+    "color": "var(--c-wrap)",
+    "subcats": [
+      {
+        "key": "wrap",
+        "label": "Wrap",
+        "recipes": [
+          {
+            "name": "Durum, zelf maken",
+            "tags": [],
+            "ingredients": [
+              "Durumbroodje",
+              "Kipdij / döner-vlees",
+              "Knoflooksaus",
+              "Sla, tomaat, ui"
+            ]
+          },
+          {
+            "name": "Kip madras wrap",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Madras currypasta",
+              "Ui, knoflook",
+              "Wrap",
+              "Yoghurt"
+            ]
+          },
+          {
+            "name": "Kip kerriewrap",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Kerriepoeder",
+              "Ui, knoflook",
+              "Wrap",
+              "Komkommer"
+            ]
+          },
+          {
+            "name": "Kip tandoori wrap",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Tandoori kruiden/pasta",
+              "Yoghurt",
+              "Wrap",
+              "Komkommer, munt"
+            ]
+          },
+          {
+            "name": "Wraps, AVG-stijl",
+            "tags": [],
+            "todo": true,
+            "ingredients": [
+              "Kipfilet",
+              "Wrap",
+              "Groenten",
+              "Kruiden naar smaak"
+            ],
+            "note": "🚧 nog aanvullen — welke specifieke variant bedoelde je hier?"
+          },
+          {
+            "name": "Zelfgemaakte McWrap (kipdij)",
+            "tags": [],
+            "ingredients": [
+              "Kipdij",
+              "Santa Mexica crunchy kruiden",
+              "Wrap",
+              "Sla",
+              "Mayo of dressing"
+            ]
+          },
+          {
+            "name": "Kipgehakt-wraps uit de pan",
+            "tags": [
+              "HelloFresh"
+            ],
+            "ingredients": [
+              "Kipgehakt",
+              "Ui",
+              "Augurk",
+              "Wrap",
+              "Kruiden",
+              "Saus"
+            ],
+            "note": "Benadering — exact HelloFresh-recept nog checken."
+          },
+          {
+            "name": "Wraps met kip masala & sweet sambal mayo",
+            "tags": [
+              "Picnic"
+            ],
+            "ingredients": [
+              "Kip",
+              "Masala kruiden",
+              "Wrap",
+              "Sambal",
+              "Mayo",
+              "Komkommer"
+            ],
+            "note": "Benadering op basis van vergelijkbare Picnic-wraps."
+          }
+        ]
+      },
+      {
+        "key": "burrito",
+        "label": "Burrito",
+        "recipes": [
+          {
+            "name": "Burritos",
+            "tags": [],
+            "ingredients": [
+              "Tortilla",
+              "Gehakt of kip",
+              "Bonen",
+              "Rijst",
+              "Kaas",
+              "Salsa",
+              "Zure room"
+            ]
+          },
+          {
+            "name": "Zoete aardappelburrito",
+            "tags": [],
+            "ingredients": [
+              "Zoete aardappel",
+              "Gehakt of bonen",
+              "Burritokruiden",
+              "Guacamole",
+              "Tortilla"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "paratha",
+        "label": "Paratha & naan",
+        "recipes": [
+          {
+            "name": "Loaded paratha's met tandoori kip",
+            "tags": [
+              "Picnic"
+            ],
+            "ingredients": [
+              "Paratha",
+              "Tandoori kip",
+              "Yoghurtsaus",
+              "Ui, koriander, munt"
+            ],
+            "note": "Benadering — vul aan met het exacte Picnic-recept."
+          },
+          {
+            "name": "Naanbrood met pulled chicken",
+            "tags": [],
+            "ingredients": [
+              "Naanbrood",
+              "Pulled chicken",
+              "Granaatappel",
+              "Feta",
+              "Griekse yoghurt",
+              "Honing",
+              "Spinazie, bosui"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "taco",
+        "label": "Taco",
+        "recipes": [
+          {
+            "name": "Big mac taco",
+            "tags": [],
+            "ingredients": [
+              "Gehakt",
+              "Tacokruiden",
+              "Cheddar",
+              "Augurk",
+              "Sla",
+              "Big mac-achtige saus",
+              "Taco shell"
+            ]
+          },
+          {
+            "name": "Vistaco (voorgerecht)",
+            "tags": [],
+            "ingredients": [
+              "Witvis",
+              "Taco shell",
+              "Koolsalade",
+              "Limoen",
+              "Koriander",
+              "Chilimayo"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "burger",
+        "label": "Burger & platbrood",
+        "recipes": [
+          {
+            "name": "Smash cheeseburgers op platbrood",
+            "tags": [
+              "Picnic"
+            ],
+            "ingredients": [
+              "Rundergehakt",
+              "Cheddar",
+              "Platbrood",
+              "Ui, augurk",
+              "Burgersaus"
+            ],
+            "note": "Benadering — vul aan met het exacte Picnic-recept."
+          }
+        ]
+      },
+      {
+        "key": "exotisch",
+        "label": "Wereldgerechten",
+        "recipes": [
+          {
+            "name": "Shakshuka",
+            "tags": [],
+            "ingredients": [
+              "Eieren",
+              "Tomaat(blokjes)",
+              "Paprika",
+              "Ui",
+              "Knoflook",
+              "Komijn, paprikapoeder",
+              "Feta",
+              "Brood"
+            ]
+          },
+          {
+            "name": "Surinaamse roti met kip",
+            "tags": [],
+            "ingredients": [
+              "Kip",
+              "Aardappel",
+              "Roti-vellen",
+              "Massala",
+              "Kousenband",
+              "Ui, knoflook"
+            ],
+            "link": "https://www.leukerecepten.nl/recepten/surinaamse-roti-met-kip/"
+          },
+          {
+            "name": "Zelf loempia's maken",
+            "tags": [],
+            "todo": true,
+            "ingredients": [
+              "Loempiavellen",
+              "Wokgroenten",
+              "Taugé",
+              "Gehakt of kip",
+              "Sojasaus",
+              "Knoflook, gember"
+            ],
+            "note": "🚧 nog aanvullen — basisgok voor een 'doorzichtige' loempia."
+          }
+        ]
+      }
+    ]
+  },
+  "boodschappen": {
+    "label": "Boodschappen",
+    "color": "var(--c-boodschappen)",
+    "subcats": [
+      {
+        "key": "picnic_basis",
+        "label": "Picnic basis",
+        "recipes": [
+          {
+            "name": "Vaste basisboodschappen",
+            "tags": [
+              "Picnic"
+            ],
+            "ingredients": [
+              "Wc-papier",
+              "§Fruit voor sapje",
+              "Sinaasappel",
+              "Citroen",
+              "Gember",
+              "Kurkuma",
+              "Appel",
+              "Brood?",
+              "Boter",
+              "Koffie",
+              "Lu crackers",
+              "Chips",
+              "Hagelslag",
+              "Eieren",
+              "Gember",
+              "Friteslijn",
+              "Appels",
+              "Kwark",
+              "Melk",
+              "Cola"
+            ],
+            "note": "Kleine dingen die je vaak los bij Picnic bestelt, los van specifieke recepten."
+          }
+        ]
+      }
+    ]
+  }
+}
