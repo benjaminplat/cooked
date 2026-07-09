@@ -1077,12 +1077,6 @@
             "listLabel": "Producten",
             "ingredients": [
               "Wc-papier",
-              "§Fruit voor sapje:",
-              "Sinaasappel",
-              "Citroen",
-              "Kurkuma",
-              "Gember",
-              "§Overig",
               "Brood?",
               "Boter",
               "Koffie",
@@ -1094,7 +1088,12 @@
               "Appels",
               "Kwark",
               "Melk",
-              "Cola"
+              "Cola",
+              "§Fruit voor sapje:",
+              "Sinaasappel",
+              "Citroen",
+              "Kurkuma",
+              "Gember"
             ]
           }
         ]
