@@ -1074,14 +1074,15 @@
             "tags": [
               "Picnic"
             ],
+            "listLabel": "Producten",
             "ingredients": [
               "Wc-papier",
-              "§Fruit voor sapje",
+              "§Fruit voor sapje:",
               "Sinaasappel",
               "Citroen",
-              "Gember",
               "Kurkuma",
-              "Appel",
+              "Gember",
+              "§Overig",
               "Brood?",
               "Boter",
               "Koffie",
@@ -1089,14 +1090,12 @@
               "Chips",
               "Hagelslag",
               "Eieren",
-              "Gember",
               "Friteslijn",
               "Appels",
               "Kwark",
               "Melk",
               "Cola"
-            ],
-            "note": "Kleine dingen die je vaak los bij Picnic bestelt, los van specifieke recepten."
+            ]
           }
         ]
       }
